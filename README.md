@@ -1,2 +1,2 @@
-# recipie-collection
+# recipe-collection
 Various recipe collections
